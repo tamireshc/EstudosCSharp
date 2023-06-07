@@ -1,0 +1,15 @@
+/Users/tamireshc/Desktop/abstracao/bin/Debug/net7.0/abstracao
+/Users/tamireshc/Desktop/abstracao/bin/Debug/net7.0/abstracao.deps.json
+/Users/tamireshc/Desktop/abstracao/bin/Debug/net7.0/abstracao.runtimeconfig.json
+/Users/tamireshc/Desktop/abstracao/bin/Debug/net7.0/abstracao.dll
+/Users/tamireshc/Desktop/abstracao/bin/Debug/net7.0/abstracao.pdb
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/abstracao.csproj.AssemblyReference.cache
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/abstracao.AssemblyInfoInputs.cache
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/abstracao.AssemblyInfo.cs
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/abstracao.csproj.CoreCompileInputs.cache
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/abstracao.dll
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/refint/abstracao.dll
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/abstracao.pdb
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/abstracao.genruntimeconfig.cache
+/Users/tamireshc/Desktop/abstracao/obj/Debug/net7.0/ref/abstracao.dll

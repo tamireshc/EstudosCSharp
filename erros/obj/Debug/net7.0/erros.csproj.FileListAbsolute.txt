@@ -1,0 +1,15 @@
+/Users/tamireshc/Desktop/erros/bin/Debug/net7.0/erros
+/Users/tamireshc/Desktop/erros/bin/Debug/net7.0/erros.deps.json
+/Users/tamireshc/Desktop/erros/bin/Debug/net7.0/erros.runtimeconfig.json
+/Users/tamireshc/Desktop/erros/bin/Debug/net7.0/erros.dll
+/Users/tamireshc/Desktop/erros/bin/Debug/net7.0/erros.pdb
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/erros.csproj.AssemblyReference.cache
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/erros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/erros.AssemblyInfoInputs.cache
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/erros.AssemblyInfo.cs
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/erros.csproj.CoreCompileInputs.cache
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/erros.dll
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/refint/erros.dll
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/erros.pdb
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/erros.genruntimeconfig.cache
+/Users/tamireshc/Desktop/erros/obj/Debug/net7.0/ref/erros.dll
