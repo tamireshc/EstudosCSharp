@@ -1,0 +1,15 @@
+/Users/tamireshc/Desktop/CursoCSharp/Interface/bin/Debug/net7.0/Interface
+/Users/tamireshc/Desktop/CursoCSharp/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/tamireshc/Desktop/CursoCSharp/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/tamireshc/Desktop/CursoCSharp/Interface/bin/Debug/net7.0/Interface.dll
+/Users/tamireshc/Desktop/CursoCSharp/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/Interface.dll
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/tamireshc/Desktop/CursoCSharp/Interface/obj/Debug/net7.0/ref/Interface.dll
