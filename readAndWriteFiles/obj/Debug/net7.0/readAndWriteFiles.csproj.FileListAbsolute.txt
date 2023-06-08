@@ -1,0 +1,15 @@
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/bin/Debug/net7.0/readAndWriteFiles
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/bin/Debug/net7.0/readAndWriteFiles.deps.json
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/bin/Debug/net7.0/readAndWriteFiles.runtimeconfig.json
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/bin/Debug/net7.0/readAndWriteFiles.dll
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/bin/Debug/net7.0/readAndWriteFiles.pdb
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/readAndWriteFiles.csproj.AssemblyReference.cache
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/readAndWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/readAndWriteFiles.AssemblyInfoInputs.cache
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/readAndWriteFiles.AssemblyInfo.cs
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/readAndWriteFiles.csproj.CoreCompileInputs.cache
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/readAndWriteFiles.dll
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/refint/readAndWriteFiles.dll
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/readAndWriteFiles.pdb
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/readAndWriteFiles.genruntimeconfig.cache
+/Users/tamireshc/Desktop/CursoCSharp/readAndWriteFiles/obj/Debug/net7.0/ref/readAndWriteFiles.dll
