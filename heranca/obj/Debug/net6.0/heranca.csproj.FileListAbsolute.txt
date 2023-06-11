@@ -1,0 +1,15 @@
+/home/tamires/Desktop/heranca/bin/Debug/net6.0/heranca
+/home/tamires/Desktop/heranca/bin/Debug/net6.0/heranca.deps.json
+/home/tamires/Desktop/heranca/bin/Debug/net6.0/heranca.runtimeconfig.json
+/home/tamires/Desktop/heranca/bin/Debug/net6.0/heranca.dll
+/home/tamires/Desktop/heranca/bin/Debug/net6.0/ref/heranca.dll
+/home/tamires/Desktop/heranca/bin/Debug/net6.0/heranca.pdb
+/home/tamires/Desktop/heranca/obj/Debug/net6.0/heranca.csproj.AssemblyReference.cache
+/home/tamires/Desktop/heranca/obj/Debug/net6.0/heranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/tamires/Desktop/heranca/obj/Debug/net6.0/heranca.AssemblyInfoInputs.cache
+/home/tamires/Desktop/heranca/obj/Debug/net6.0/heranca.AssemblyInfo.cs
+/home/tamires/Desktop/heranca/obj/Debug/net6.0/heranca.csproj.CoreCompileInputs.cache
+/home/tamires/Desktop/heranca/obj/Debug/net6.0/heranca.dll
+/home/tamires/Desktop/heranca/obj/Debug/net6.0/ref/heranca.dll
+/home/tamires/Desktop/heranca/obj/Debug/net6.0/heranca.pdb
+/home/tamires/Desktop/heranca/obj/Debug/net6.0/heranca.genruntimeconfig.cache
