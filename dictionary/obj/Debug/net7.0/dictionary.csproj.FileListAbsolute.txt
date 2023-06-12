@@ -1,0 +1,15 @@
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/bin/Debug/net7.0/dictionary
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/bin/Debug/net7.0/dictionary.deps.json
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/bin/Debug/net7.0/dictionary.runtimeconfig.json
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/bin/Debug/net7.0/dictionary.dll
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/bin/Debug/net7.0/dictionary.pdb
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/dictionary.csproj.AssemblyReference.cache
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/dictionary.AssemblyInfoInputs.cache
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/dictionary.AssemblyInfo.cs
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/dictionary.csproj.CoreCompileInputs.cache
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/dictionary.dll
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/refint/dictionary.dll
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/dictionary.pdb
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/dictionary.genruntimeconfig.cache
+/Users/tamireshc/Desktop/CursoCSharp/dictionary/obj/Debug/net7.0/ref/dictionary.dll
