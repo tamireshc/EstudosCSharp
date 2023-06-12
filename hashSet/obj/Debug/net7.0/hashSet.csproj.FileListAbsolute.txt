@@ -1,0 +1,15 @@
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/bin/Debug/net7.0/hashSet
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/bin/Debug/net7.0/hashSet.deps.json
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/bin/Debug/net7.0/hashSet.runtimeconfig.json
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/bin/Debug/net7.0/hashSet.dll
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/bin/Debug/net7.0/hashSet.pdb
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/hashSet.csproj.AssemblyReference.cache
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/hashSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/hashSet.AssemblyInfoInputs.cache
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/hashSet.AssemblyInfo.cs
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/hashSet.csproj.CoreCompileInputs.cache
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/hashSet.dll
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/refint/hashSet.dll
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/hashSet.pdb
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/hashSet.genruntimeconfig.cache
+/Users/tamireshc/Desktop/CursoCSharp/hashSet/obj/Debug/net7.0/ref/hashSet.dll
