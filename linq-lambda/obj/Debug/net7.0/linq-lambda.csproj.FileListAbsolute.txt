@@ -1,0 +1,15 @@
+/Users/tamireshc/Desktop/linq-lambda/bin/Debug/net7.0/linq-lambda
+/Users/tamireshc/Desktop/linq-lambda/bin/Debug/net7.0/linq-lambda.deps.json
+/Users/tamireshc/Desktop/linq-lambda/bin/Debug/net7.0/linq-lambda.runtimeconfig.json
+/Users/tamireshc/Desktop/linq-lambda/bin/Debug/net7.0/linq-lambda.dll
+/Users/tamireshc/Desktop/linq-lambda/bin/Debug/net7.0/linq-lambda.pdb
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/linq-lambda.csproj.AssemblyReference.cache
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/linq-lambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/linq-lambda.AssemblyInfoInputs.cache
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/linq-lambda.AssemblyInfo.cs
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/linq-lambda.csproj.CoreCompileInputs.cache
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/linq-lambda.dll
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/refint/linq-lambda.dll
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/linq-lambda.pdb
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/linq-lambda.genruntimeconfig.cache
+/Users/tamireshc/Desktop/linq-lambda/obj/Debug/net7.0/ref/linq-lambda.dll
