@@ -34,6 +34,18 @@ public class Tabuleiro
     p.Posicao = pos;
   }
 
+  public Peca retirarPeca(Posicao pos)
+  {
+    if (peca(pos) == null)
+    {
+      return null;
+    }
+    Peca aux = peca(pos);
+    aux.Posicao = null;
+    Pecas[pos.Linha, pos.Coluna] = null;
+    return aux;
+  }
+
   public bool posicaovalida(Posicao pos)
   {
     if (pos.Linha < 0 || pos.Coluna < 0 || pos.Linha >= Linhas || pos.Coluna >= Colunas)

@@ -9,9 +9,22 @@ Console.WriteLine(pos);
 
 try
 {
-  tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
-  tab.colocarPeca(new Rei(tab, Cor.Branca), new Posicao(2, 4));
-  Tela.imprimitTabuleiro(tab);
+  PartidaDeXadrez partida = new PartidaDeXadrez();
+  Tela.imprimitTabuleiro(partida.tab);
+  while (!partida.terminada)
+  {
+    Console.Clear();
+    Tela.imprimitTabuleiro(partida.tab);
+    Console.WriteLine();
+    Console.WriteLine("origem:");
+    Posicao origem = Tela.LerPosicaoXadrez().toPosicao();
+    Console.WriteLine("Destino:");
+    Posicao destino = Tela.LerPosicaoXadrez().toPosicao();
+
+    partida.executaMovimento(origem, destino);
+
+
+  }
 }
 catch (TabuleiroException e)
 {

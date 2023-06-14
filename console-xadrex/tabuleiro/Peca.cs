@@ -14,4 +14,9 @@ public class Peca
     QtdMovimentos = 0;
   }
 
+  public void incrementarQtdMovimento()
+  {
+    QtdMovimentos++;
+  }
+
 }
