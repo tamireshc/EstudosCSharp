@@ -3,7 +3,7 @@ using xadrez;
 
 namespace xadrez_console
 {
-  class Tela
+  public class Tela
   {
     public static void imprimitTabuleiro(Tabuleiro tab)
     {

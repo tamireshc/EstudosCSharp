@@ -22,8 +22,6 @@ try
     Posicao destino = Tela.LerPosicaoXadrez().toPosicao();
 
     partida.executaMovimento(origem, destino);
-
-
   }
 }
 catch (TabuleiroException e)
